@@ -1,1 +1,13 @@
-Hello World
+---
+layout: default
+title: Zhijian Jiang
+---
+<h2>{{ page.title }}</h2>
+<p>new article</p>
+<ul>
+	{% for post in site.posts %}
+		<li>{{ 2016.07.17 | date_to string }} <a href="{{ site.baseurl
+}}{{ post.url }}">{{ post.title }}</a><li>
+
+	{% endfor %}
+</ul>
