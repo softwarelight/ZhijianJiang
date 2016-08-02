@@ -36,6 +36,7 @@
       <h2>My Work</h2>
       <p>Some of my latest projects.</p>
     </div>
+    <!--
     <div class="w3-row">
       <div class="w3-half">
         <img src="img_coffee.jpg" style="width:100%">
@@ -61,6 +62,12 @@
         <img src="img_workbench.jpg" style="width:100%">
       </div>
     </div><br>
+    -->
+     <ul>
+            {% for post in site.posts %}
+                       <li>{{ post.date | date_to_string }} <a href = "{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+            {% endfor %}
+    </ul>
     <p>Just call me awesome.</p>
   </div>
   <div class="w3-half w3-indigo w3-container" style="min-height:800px">
