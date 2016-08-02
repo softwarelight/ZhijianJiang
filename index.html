@@ -4,26 +4,30 @@ title: Zhijian Jiang
 ---
 <hr />
 <head>
+    <style>
+        body{
+            font-family: 'Tangerine', serif;
+        }
     <h1>{{ page.title }}</h1>
         <meta name="viewpoint" content="width=device-width, initial-scale=1"/>
-        </head>
+    </head>
 
-        <body>
-        <FONT style="line-height:2" size: 4px>
-                <p style="line-length:100%">
-                    <img src="ZhijianJiang.github.io/images/MyImg.jpg" width="320"; height="240"; style="position:absolute; right:100px; top:12px"/>Bachelor of Engineering(Expected in June, 2017)
-                    <br>Department of Electronic Information Science and Technology
-                    <br>School of Electronic Science and Engineering
-                </p>
-                <p style="line-length:100%">Tel: +8615358530218
-                    <br>E-mail: Zhijian.Jiang@outlook.com
-                    <br>Add: No.163, Xianlin Road, Qixia District, Nanjing City.Jiangsu Province, CHINA</p>
-        </FONT>
-        <hr />
-        <h2>Newest article</h2>
-            <ul>
-                {% for post in site.posts %}
-                    <li>{{ post.date | date_to_string }} <a href = "{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+<body>
+    <FONT style="line-height:2" size: 4px>
+        <p style="line-length:100%">
+            <img src="ZhijianJiang.github.io/images/MyImg.jpg" width="320"; height="240"; style="position:absolute; right:100px; top:12px"/>Bachelor of Engineering(Expected in June, 2017)
+            <br>Department of Electronic Information Science and Technology
+            <br>School of Electronic Science and Engineering
+        </p>
+        <p style="line-length:100%">Tel: +8615358530218
+            <br>E-mail: Zhijian.Jiang@outlook.com
+                <br>Add: No.163, Xianlin Road, Qixia District, Nanjing City.Jiangsu Province, CHINA</p>
+    </FONT>
+    <hr />
+    <h2>Newest article</h2>
+        <ul>
+            {% for post in site.posts %}
+                <li>{{ post.date | date_to_string }} <a href = "{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
                 {% endfor %}
-            </ul>
-        </body>
+        </ul>
+</body>
