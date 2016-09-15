@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Happy Mid-Autumn Festival
 ---
 # Happy Mid-Autumn Festival

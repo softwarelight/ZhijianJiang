@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Digital Frequency Meter
 ---
 # {{ page.title }}
