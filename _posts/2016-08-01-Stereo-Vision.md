@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Digital Frequency Meter
+title: Stereo Vision
 ---
 # {{ page.title }}
 
