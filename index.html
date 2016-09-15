@@ -1,0 +1,70 @@
+---
+layout: default
+title: Zhijian Jiang
+---
+<head>
+    <style>
+        h1{
+            font-family: 'Vollkorn', serif;
+            font-size: 2em;
+	}
+        body{
+            font-family: 'Vollkorn', serif;
+	    font-size: 1em;
+        }
+	p{
+	    font-family: 'Vollkorn', serif;
+	    font-size: 1em;
+	}
+        img{
+            max-width: 100%;
+        }
+    </style>    
+    <h1>{{ page.title }}</h1>
+    <meta name="viewpoint" content="width=device-width, initial-scale=1"/>
+</head>
+
+<body>
+    <div style="line-height:2">
+	<p>
+        <img src="ZhijianJiang.github.io/images/MyImg.jpg" width="25%"; height="25%"; align="left"/>
+		Bachelor of Engineering(Expected in June, 2017)
+		<br>
+		<br>E-mail: Zhijian.Jiang@outlook.com
+        <br>Add: No.163, Xianlin Road, Qixia District, Nanjing City.Jiangsu Province, CHINA, 210046
+        <br><a href=https://github.com/ZhijianJiang>GitHub</a>, <a href=https://jiangzhijian.wordpress.com>MY BLOG</a>
+	</p>
+    </div>
+    <br><br><hr />
+    <h2>Educational Background</h2>
+    2013.9 ~ 2017.7     Bachelor of Engineering(Expected in June, 2017), Department of Electronic Information Science and Technology, <a href=http://ese.nju.edu.cn/#>School of Electronic Science and Engineering</a>, <a href=http://www.nju.edu.cn/english/>Nanjing University</a>
+    <br>2016.1 ~ 2016.5     Exchange Student of IASP, <a href=https://www.cuhk.edu.hk>the Chinese University of Hong Kong</a> 
+    <br>
+    <hr />
+    <h2>About me</h2>
+	I was born and grew up in Baoying, a small town in CHINA, with my beloved parents. After my graduation from secondary school, I made one of my biggest decision in my life: to go to high school in other cities, which is Yang Zhou. During my high school, I spent a happy time with my friends, who are still supporting me in many areas. In Year 3, I made another decision to go to study electronics in Nanjing University instead of Fudan University because Fudan offered me the bachelor of prophylactic medicine, which I did not like it. In the beginning of my university, I faced a lot of difficulty about my study and my GPA is low. However, in order to get the opportunity to study in America, I tried my best to catch up and I succeeded. Moreover, I gained an important award, the First Prize in National University Electronic Design Competition. When I was junior, I went to the Chinese University of Hong Kong as an exchange student, which must be the most fantastic time in my life. During those days, I ate a lot, played a lot and studied a lot. From the depth of my heart, I love Hong Kong.
+	<br>I love eating and finding delicious food. Exactly, I love exploring because I want to try different things. I could buy over 20 kinds of notebooks to find the best one.
+    <br><hr />
+    <h2>Newest article</h2>
+      	<ul>
+            {% for post in site.posts %}
+                <li>{{ post.date | date_to_string }} <a href = "{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+                {% endfor %}
+        </ul>
+    <br>
+    <hr />
+    <h2>Some words</h2>
+	About dream: struggling be a realiable, strong, humorous man, living colorfully and excellently.
+	<br>About friendship: be sincere to my friends; not contacting you often does not mean that I do not love you.
+	<br>About money: after all, lack of money could cause a lot of trouble.
+    <br>
+    <hr />
+    
+    <h2>Thanks to</h2>
+    <a href=http://ruanyifeng.com>Yifeng Ruan</a>, <a href=https://w3school.com>W3School</a>, <a href=https://pages.github.com>Github Pages</a>
+	<br>
+	<hr />
+	<h2>Skills</h2>
+	Programming: C/C++, Matlab, Python, R, Shell, html, CSS
+	<br>
+</body>
