@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+<!--
+    .main{
+    	float: right;
+	width: 70%;
+    }
+
+    .leftBar{
+    	float: left;
+	width: 25%;
+    }
+-->
+    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Tangerine">
+    <link rel="stylesheet" type="text/css"
+    	media="screen and (max-device-width: 400px)"
+	href="tinyScreen.css"/>
+    <link rel="stylesheet" type="text/css"
+    	media="screen and (min-width: 400px)(max-device-width: 600px)"
+	href="samllScreen.css"/>
+	<meta http-equiv="content-type" name="viewpoint "content="width=device-width, initial-scale=1"/>
+	<title>Stereo Vision</title>
+</head>
+<body bgcolor=#FFFFFF text=#000000>
+	<div class="post">
+  <h1 class="post-title">Stereo Vision</h1>
+  <span class="post-date">01 Aug 2016</span>
+  <h1 id='stereo_vision'>Stereo Vision</h1>
+
+<h2 id='1_target'>1. Target</h2>
+
+<p>Calculate disparity of a pair of stereo images. Use window based searching algorithm and try different window size. If you choose to setup your own stereo vision system, calculate the actual depth according to the length of the baseline.</p>
+
+<h2 id='2process'>2.Process</h2>
+
+<ul>
+<li>
+<p>Download pictures and test them Download sample pictures from http://vision.middlebury.edu/stereo/data/. There some notes below:</p>
+
+<ul>
+<li>Download the 2005 datasets if you want to figure out the depth from disparity because the 2005 dataset provide the baseline length and focal length. For the 2005 dataset, the focal length is 3740 pixels, and the baseline is 160mm.</li>
+
+<li>There are three kinds of resolutions, full size, half size and third size. Notably, in the half-size and third-size versions, the intensity values of the disparity maps need to be divided by 2 and 3, respectively. To map the disparities into 3D coordinates, add the value in &#8220;dmin.txt&#8221; to each disparity value, since the images and disparity maps were cropped.</li>
+
+<li>Just to be sure, match two pictures by Harris corner to ensure they have be calibrated. In this experiment, one of the results is shown below,&#8221;&#8221;</li>
+</ul>
+</li>
+</ul>
+
+<p>01 Aug 2016</p>
+</div>
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/1.2.1/anchor.min.js"></script>
+<script type="text/javascript">
+anchors.options.visible = 'hoover';
+anchors.options.placement = 'left';
+anchors.add();
+anchors.remove('.masthead-title');
+</script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/picturefill/2.3.1/picturefill.min.js"></script>
+
+Include file 'tagsforpost.html tags=page.tags' contains invalid characters or sequences
+
+<div class="related">
+  <h2>Related Posts</h2>
+  <ul class="related-posts">
+    
+      <li>
+        <h3>
+          <a href="/ZhijianJiang.github.io/2016/09/15/Happy-Mid-Autumn-Festival.html">
+            Happy Mid-Autumn Festival
+            <small>15 Sep 2016</small>
+          </a>
+        </h3>
+      </li>
+    
+  </ul>
+</div>
+
+
+</body>
+</html>
