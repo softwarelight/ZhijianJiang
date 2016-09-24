@@ -33,7 +33,7 @@ instead of
 * (1 sentence) Plus, a polite formula:   
 In the following paragraphs, I would give some explanations to clarify my viewpoints.   
 
-## Tail (**template**)
+### Tail (**template**)
 * (1-2 sentences) Conclude your supporting ideas:   
 In brief, teachers could do both well if they idea1, idea2...   
 * (1 sentence) Speak about your main opinion again!   
@@ -42,5 +42,5 @@ In brief, teachers could do both well if they idea1, idea2...
     * **Proof by contradiction**: If not ..., ...
     * **Cry out**: If only ... , ... **OR** Only if ... , ...
 
-## Body (**Logic flow**)   
+### Body (**Logic flow**)   
 Usually, you should have **three** body paragraphs. About how to assign these three paragraphs, you could choose to claim three supporting ideas while I prefer to write three 
