@@ -13,7 +13,7 @@ After struggling with TOEFL four times, from 78 to 106, maybe some of my ideas a
 ## Writing
 Let's beat WRITING in 30 minutes!!   
     
-**Sample question**: it is difficult for teachers to be both popular (students like them) and effective helping students in learning?   
+**Sample question**: It is difficult for teachers to be both popular (students like them) and effective helping students in learning?   
 
 ### Head (**template**)   
 * (1 sentence) Describe the **background**:   
@@ -43,4 +43,12 @@ In brief, teachers could do both well if they idea1, idea2...
     * **Cry out**: If only ... , ... **OR** Only if ... , ...
 
 ### Body (**Logic flow**)   
-Usually, you should have **three** body paragraphs. About how to assign these three paragraphs, you could choose to claim three supporting ideas while I prefer to write three 
+Usually, you should have **3** body paragraphs. About how to assign these three paragraphs, you could choose to claim 3 supporting ideas while I prefer to write **2 supporting ideas plus 1 concession paragraph** because
+* it is easy and quick to write concession paragraph
+* it is easier to figure out 2 supoorting ideas rather than 3
+Since concession paragraph is easier, talk about it first.   
+
+#### Concession Paragraph (**template**)
+* (1 sentence) Admit drawback: Admittedly, a disadvantage of your main opinion.   
+* (1 sentence)Reject drawback at once: However, use a **simple** but solid reason to reject this drawback.   
+* A formula
