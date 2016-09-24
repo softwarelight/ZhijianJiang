@@ -4,12 +4,17 @@ title: TOEFL Experience
 subtitle: Say Goodbye to TOEFL! Except Speaking...
 ---
 After struggling with TOEFL four times, from 78 to 106, maybe some of my ideas and experience would help you!   
+## Useful Resources
+* Sites: toefl.kmf.com, www.yeeaoo.com   
+* Apps:   
+* Books: 
+
 ## Writing
 Let's beat WRITING in 30 minutes!!   
     
 Sample question: it is difficult for teachers to be both popular (students like them) and effective helping students in learning?
 
-* Head (**template**)
+### Head (**template**)
     * (1 sentence) Describe the **background**:   
     With the development   
     and    
@@ -38,3 +43,4 @@ Sample question: it is difficult for teachers to be both popular (students like 
         * **Cry out**: If only ... , ... **OR** Only if ... , ...
 
 * Body (**Logic flow**)   
+Usually, you should have **three** body paragraphs. About how to assign these three paragraphs, you could choose to claim three supporting ideas while I prefer to write three 
