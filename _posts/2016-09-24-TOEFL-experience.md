@@ -51,4 +51,8 @@ Since concession paragraph is easier, talk about it first.
 #### Concession Paragraph (**template**)
 * (1 sentence) Admit drawback: Admittedly, a disadvantage of your main opinion.   
 * (1 sentence)Reject drawback at once: However, use a **simple** but solid reason to reject this drawback.   
-* A formula
+* A formula: So, the opposing opinion cannot bear careful analysis and I still insist on my former viewpoint.   
+
+#### Supporting Idea (**Logic Flow**)
+Before writing this paragraph, you **must** be able to figure out at least 2 paragraphs in a short time. How to be equipped with this power? **Read others' opinions and practice many times!**   
+
