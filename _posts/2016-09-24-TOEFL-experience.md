@@ -23,7 +23,7 @@ Sample question: it is difficult for teachers to be both popular (students like 
     (**RIGHT!!!**)Personally, I support the first opinion that teachers could find some ways to winning popularity from students as well as teaching them properly.   
     Note: You should **clearly** point out your viewpoint   
     instead of    
-    (**WRONG!!!***)Personally, I support the first/second opinion.   
+    (**WRONG!!!**)Personally, I support the first/second opinion.   
     * (1 sentence) Plus, a polite formula:   
     In the following paragraphs, I would give some explanations to clarify my viewpoints.   
 
