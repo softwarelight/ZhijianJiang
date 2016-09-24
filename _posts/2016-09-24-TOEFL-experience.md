@@ -18,8 +18,10 @@ Sample question: it is difficult for teachers to be both popular (students like 
     For others, it is possible for teachers to keep popular and teach students at the same time.   
     Note: 用**两种方式**陈述正反方观点，无需陈述理由，好处：1.快。2.讲的清楚。3.字多。   
     * (1 sentence) Point out your own **standpoint clearly**:   
-    Personally, I support the first opinion that teachers could find some ways to winning popularity from students as well as teaching them properly.   
-    Note: You should **clearly** point out your viewpoint instead of `Personally, I support the first/second opinion`.   
+    (**RIGHT!!!**)Personally, I support the first opinion that teachers could find some ways to winning popularity from students as well as teaching them properly.   
+    Note: You should **clearly** point out your viewpoint   
+    instead of    
+    (**WRONG!!!***)Personally, I support the first/second opinion.   
     * (1 sentence) Plus, a polite formula:   
     In the following paragraphs, I would give some explanations to clarify my viewpoints.   
 
