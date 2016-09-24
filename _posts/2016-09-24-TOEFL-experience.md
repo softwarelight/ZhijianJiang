@@ -3,7 +3,7 @@ layout: post
 title: TOEFL Experience
 subtitle: Say Goodbye to TOEFL! Except Speaking...
 ---
-
+After struggling with TOEFL four times, from 78 to 106, maybe some of my ideas and experience would help you!   
 ## Writing
 Let's beat WRITING in 30 minutes!!   
     
