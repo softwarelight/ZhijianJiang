@@ -4,6 +4,7 @@ title: TOEFL Experience
 subtitle: Say Goodbye to TOEFL! Except Speaking...
 ---
 After struggling with TOEFL four times, from 78 to 106, maybe some of my ideas and experience would help you!   
+
 ## Useful Resources   
 * Sites: toefl.kmf.com, www.yeeaoo.com   
 * Apps:   
@@ -32,15 +33,14 @@ instead of
 * (1 sentence) Plus, a polite formula:   
 In the following paragraphs, I would give some explanations to clarify my viewpoints.   
 
-* Tail (**template**)
-    * (1-2 sentences) Conclude your supporting ideas:   
-    In brief, teachers could do both well if they idea1, idea2...   
-    * (1 sentence) Speak about your main opinion again!   
-    * (1 sentence) Improvements, in other words, a **nonsense**.   
-    There are three methods:   
-        * Suggestion   
-        * **Proof by contradiction**: If not ..., ...
-        * **Cry out**: If only ... , ... **OR** Only if ... , ...
+## Tail (**template**)
+* (1-2 sentences) Conclude your supporting ideas:   
+In brief, teachers could do both well if they idea1, idea2...   
+* (1 sentence) Speak about your main opinion again!   
+* (1 sentence) Improvements, in other words, a **nonsense**. There are three methods:   
+    * Suggestion   
+    * **Proof by contradiction**: If not ..., ...
+    * **Cry out**: If only ... , ... **OR** Only if ... , ...
 
-* Body (**Logic flow**)   
+## Body (**Logic flow**)   
 Usually, you should have **three** body paragraphs. About how to assign these three paragraphs, you could choose to claim three supporting ideas while I prefer to write three 
