@@ -5,6 +5,7 @@ subtitle: Say Goodbye to TOEFL! Except Speaking...
 ---
 
 ## Writing
+Let's beat WRITING in 30 minutes!!   
 Sample question: it is difficult for teachers to be both popular (students like them) and effective helping students in learning?
 
 * Head (**template**)
