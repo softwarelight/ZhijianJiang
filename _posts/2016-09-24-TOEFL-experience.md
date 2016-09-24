@@ -4,7 +4,7 @@ title: TOEFL Experience
 subtitle: Say Goodbye to TOEFL! Except Speaking...
 ---
 After struggling with TOEFL four times, from 78 to 106, maybe some of my ideas and experience would help you!   
-## Useful Resources
+## Useful Resources   
 * Sites: toefl.kmf.com, www.yeeaoo.com   
 * Apps:   
 * Books: 
@@ -12,25 +12,25 @@ After struggling with TOEFL four times, from 78 to 106, maybe some of my ideas a
 ## Writing
 Let's beat WRITING in 30 minutes!!   
     
-Sample question: it is difficult for teachers to be both popular (students like them) and effective helping students in learning?
+**Sample question**: it is difficult for teachers to be both popular (students like them) and effective helping students in learning?   
 
-### Head (**template**)
-    * (1 sentence) Describe the **background**:   
-    With the development   
-    and    
-    (1 sentence) point out the **issue**:   
-    So, whether to ... has ignited a heated debated among the public.   
-    * (2 sentences) Talk about **two opinions**:   
-    For some, they think that teachers have difficulty in making students like them as well as helping students in learning effectively.    
-    For others, it is possible for teachers to keep popular and teach students at the same time.   
-    Note: 用**两种方式**陈述正反方观点，无需陈述理由，好处：1.快。2.讲的清楚。3.字多。   
-    * (1 sentence) Point out your own **standpoint clearly**:   
-    (**RIGHT!!!**)Personally, I support the first opinion that teachers could find some ways to winning popularity from students as well as teaching them properly.   
-    Note: You should **clearly** point out your viewpoint   
-    instead of    
-    (**WRONG!!!**)Personally, I support the first/second opinion.   
-    * (1 sentence) Plus, a polite formula:   
-    In the following paragraphs, I would give some explanations to clarify my viewpoints.   
+### Head (**template**)   
+* (1 sentence) Describe the **background**:   
+With the development of ...
+and    
+(1 sentence) point out the **issue**:   
+So, whether to ... has ignited a heated debated among the public.   
+* (2 sentences) Talk about **two opinions**:   
+For some, they think that teachers have difficulty in making students like them as well as helping students in learning effectively.    
+For others, it is possible for teachers to keep popular and teach students at the same time.   
+Note: 用**两种方式**陈述正反方观点，无需陈述理由，好处：1.快。2.讲的清楚。3.字多。   
+* (1 sentence) Point out your own **standpoint clearly**:   
+(**RIGHT!!!**)Personally, I support the first opinion that teachers could find some ways to winning popularity from students as well as teaching them properly.   
+Note: You should **clearly** point out your viewpoint   
+instead of    
+(**WRONG!!!**)Personally, I support the first/second opinion.   
+* (1 sentence) Plus, a polite formula:   
+In the following paragraphs, I would give some explanations to clarify my viewpoints.   
 
 * Tail (**template**)
     * (1-2 sentences) Conclude your supporting ideas:   
