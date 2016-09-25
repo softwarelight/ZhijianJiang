@@ -6,9 +6,19 @@ subtitle: Say Goodbye to TOEFL! Except Speaking...
 After struggling with TOEFL four times, from 78 to 106, maybe some of my ideas and experience would help you!   
 
 ## Useful Resources   
-* Sites: toefl.kmf.com, www.yeeaoo.com   
-* Apps:   
+* Sites: 
+    * toefl.kmf.com: All TPOs but have some problems when recording speaking
+    * www.yeeaoo.com: Practicing speaking and could have someone review your record. Moreover, its speaking group in Wechat is useful.   
+* Apps: 
+    * 扇贝单词
+    * 托福考满分: The app of toefl.kmf.com with most functions
+    * 亦鸥托福: The app of www.yeeaoo.com with most functions
+    * 托福单词: It has a function called 单词电台, which you could listen to English words following their Chinese meanings
 * Books: 
+    * TOEFL iBT听力单词小伴侣: A book containing important listening words
+* Taobao: 
+    * 
+* Note: Instead of listening to conversations or lectures on the way or during some other free time, I suggest listening to 单词电台 in 托福单词 or MP3 of TOEFL iBT听力单词小伴侣
 
 ## Writing
 Let's beat WRITING in 30 minutes!!   
@@ -55,4 +65,25 @@ Since concession paragraph is easier, talk about it first.
 
 #### Supporting Idea (**Logic Flow**)
 Before writing this paragraph, you **must** be able to figure out at least 2 paragraphs in a short time. How to be equipped with this power? **Read others' opinions and practice many times!**   
-
+##### At first
+* (1 sentence) Point out your supporting idea **clearly, simply, directly**: 
+First/Second/... , it would work if teachers could modify their teaching methods.
+**Note**: the most complex structure is main clause plus **1** subordinate clause.
+##### Explain your idea
+* (2-3 sentences) Explain your idea. **MOST IMPORTANT!!!** because
+    * 2-3 sentences account for a large part of a paragraph
+    * Decide how to build up your examples later, which could take up at most **2/3** of a paragraph!!!
+When it comes to how to explain your idea, I recommended a trick called **Bridging(搭桥法)**!
+##### Bridging
+* Simply, when you supporting idea is A results in B, you should find an agent C and then explain how A causes C as well as how C causes B.A -> C -> B
+* There are more complex structures
+    * A -> C -> D -> B
+    *   -> C   
+      A      -> B
+        -> D
+* Example: 
+    * (A -> B) Helping others makes my community mor harmonious.
+    * (A -> C) With more and more people inclined to help others in my community, many habitants' attitudes to neighbours become positive and friendly, more willing to show kindness.
+    * (C -> B) As the trend of showing kindness to others sweeps through the community, the whole atmosphere becomes much more harmonious.
+##### Example
+* Your example must be based on your explanation before. In other words, you should use a story to say the **logic flow** again!
