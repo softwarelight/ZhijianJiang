@@ -65,15 +65,18 @@ Since concession paragraph is easier, talk about it first.
 
 #### Supporting Idea (**Logic Flow**)
 Before writing this paragraph, you **must** be able to figure out at least 2 paragraphs in a short time. How to be equipped with this power? **Read others' opinions and practice many times!**   
+
 ##### At first
 * (1 sentence) Point out your supporting idea **clearly, simply, directly**: 
 First/Second/... , it would work if teachers could modify their teaching methods.
 **Note**: the most complex structure is main clause plus **1** subordinate clause.
+
 ##### Explain your idea
 * (2-3 sentences) Explain your idea. **MOST IMPORTANT!!!** because
     * 2-3 sentences account for a large part of a paragraph
     * Decide how to build up your examples later, which could take up at most **2/3** of a paragraph!!!
 When it comes to how to explain your idea, I recommended a trick called **Bridging(搭桥法)**!
+
 ##### Bridging
 * Simply, when you supporting idea is A results in B, you should find an agent C and then explain how A causes C as well as how C causes B.A -> C -> B
 * There are more complex structures
@@ -85,5 +88,6 @@ When it comes to how to explain your idea, I recommended a trick called **Bridgi
     * (A -> B) Helping others makes my community mor harmonious.
     * (A -> C) With more and more people inclined to help others in my community, many habitants' attitudes to neighbours become positive and friendly, more willing to show kindness.
     * (C -> B) As the trend of showing kindness to others sweeps through the community, the whole atmosphere becomes much more harmonious.
+
 ##### Example
 * Your example must be based on your explanation before. In other words, you should use a story to say the **logic flow** again!
