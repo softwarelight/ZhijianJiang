@@ -21,22 +21,23 @@ After struggling with TOEFL four times, from 78 to 106, maybe some of my ideas a
 * **Note**: Instead of listening to conversations or lectures on the way or during some other free time, I suggest listening to 单词电台 in 托福单词 or MP3 of TOEFL iBT听力单词小伴侣
 
 ## Writing
+My TOEFL writing development: 19 -> 24 -> 27 -> 29   
 Let's beat WRITING in 30 minutes!!   
-    
+**Note**: Use enough **link words**!!!
+
 **Sample question**: It is difficult for teachers to be both popular (students like them) and effective helping students in learning?   
 
 ### Head (**template**)   
 * (1 sentence) Describe the **background**:   
 With the development of ...
-and    
-(1 sentence) point out the **issue**:   
+* (1 sentence) point out the **issue**:   
 So, whether to ... has ignited a heated debated among the public.   
 * (2 sentences) Talk about **two opinions**:   
-For some, they think that teachers have difficulty in making students like them as well as helping students in learning effectively.    
-For others, it is possible for teachers to keep popular and teach students at the same time.   
+**For some**, they think that teachers have difficulty in making students like them as well as helping students in learning effectively.    
+**For others**, it is possible for teachers to keep popular and teach students at the same time.   
 **Note**: 用**两种方式**陈述正反方观点，无需陈述理由，好处：1.快。2.讲的清楚。3.字多。   
 * (1 sentence) Point out your own **standpoint clearly**:   
-(**RIGHT!!!**)Personally, I support the first opinion that teachers could find some ways to winning popularity from students as well as teaching them properly.   
+(**RIGHT!!!**)**Personally**, I support the first opinion that teachers could find some ways to winning popularity from students as well as teaching them properly.   
 **Note**: You should **clearly** point out your viewpoint   
 instead of    
 (**WRONG!!!**)Personally, I support the first/second opinion.   
@@ -53,28 +54,30 @@ In brief, teachers could do both well if they idea1, idea2...
     * **Cry out**: If only ... , ... **OR** Only if ... , ...
 
 ### Body (**Logic flow**)   
-Usually, you should have **3** body paragraphs. About how to assign these three paragraphs, you could choose to claim 3 supporting ideas while I prefer to write **2 supporting ideas plus 1 concession paragraph** because
+Usually, you should have **3** body paragraphs.   
+About how to assign these three paragraphs, you could choose to claim 3 supporting ideas    
+while I prefer to write **2 supporting ideas plus 1 concession paragraph** because   
 * it is easy and quick to write concession paragraph
 * it is easier to figure out 2 supoorting ideas rather than 3
 Since concession paragraph is easier, talk about it first.   
 
 #### Concession Paragraph (**template**)
-* (1 sentence) Admit drawback: Admittedly, a disadvantage of your main opinion.   
-* (1 sentence)Reject drawback at once: However, use a **simple** but solid reason to reject this drawback.   
+* (1 sentence) Admit drawback: Admittedly, **a disadvantage of your main opinion**.   
+* (1 sentence) Reject drawback at once: However, use a **simple** but solid reason to reject this drawback.   
 * A formula: So, the opposing opinion cannot bear careful analysis and I still insist on my former viewpoint.   
 
 #### Supporting Idea (**Logic Flow**)
 Before writing this paragraph, you **must** be able to figure out at least 2 paragraphs in a short time. How to be equipped with this power? **Read others' opinions and practice many times!**   
 
 ##### At first
-* (1 sentence) Point out your supporting idea **clearly, simply, directly**: 
-First/Second/... , it would work if teachers could modify their teaching methods.
+* (1 sentence) Point out your supporting idea **clearly, simply, directly**:    
+**First/Second/...** , it would work if teachers could modify their teaching methods.   
 **Note**: the most complex structure is main clause plus **1** subordinate clause.
 
 ##### Explain your idea
 * (2-3 sentences) Explain your idea. **MOST IMPORTANT!!!** because
     * 2-3 sentences account for a large part of a paragraph
-    * Decide how to build up your examples later, which could take up at most **2/3** of a paragraph!!!
+    * Decide how to build up your examples later, which could take up at most **2/3** of a paragraph!!!   
 When it comes to how to explain your idea, I recommended a trick called **Bridging(搭桥法)**!
 
 ##### Bridging
