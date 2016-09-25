@@ -82,8 +82,8 @@ When it comes to how to explain your idea, I recommended a trick called **Bridgi
 * There are more complex structures
     * A -> C -> D -> B
     *   -> C   
-      A      -> B
-        -> D
+      A      -> B   
+        -> D   
 * Example: 
     * (A -> B) Helping others makes my community mor harmonious.
     * (A -> C) With more and more people inclined to help others in my community, many habitants' attitudes to neighbours become positive and friendly, more willing to show kindness.
