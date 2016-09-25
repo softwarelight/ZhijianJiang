@@ -18,7 +18,7 @@ After struggling with TOEFL four times, from 78 to 106, maybe some of my ideas a
     * TOEFL iBT听力单词小伴侣: A book containing important listening words
 * Taobao: 
     * 
-* Note: Instead of listening to conversations or lectures on the way or during some other free time, I suggest listening to 单词电台 in 托福单词 or MP3 of TOEFL iBT听力单词小伴侣
+* **Note**: Instead of listening to conversations or lectures on the way or during some other free time, I suggest listening to 单词电台 in 托福单词 or MP3 of TOEFL iBT听力单词小伴侣
 
 ## Writing
 Let's beat WRITING in 30 minutes!!   
@@ -34,10 +34,10 @@ So, whether to ... has ignited a heated debated among the public.
 * (2 sentences) Talk about **two opinions**:   
 For some, they think that teachers have difficulty in making students like them as well as helping students in learning effectively.    
 For others, it is possible for teachers to keep popular and teach students at the same time.   
-Note: 用**两种方式**陈述正反方观点，无需陈述理由，好处：1.快。2.讲的清楚。3.字多。   
+**Note**: 用**两种方式**陈述正反方观点，无需陈述理由，好处：1.快。2.讲的清楚。3.字多。   
 * (1 sentence) Point out your own **standpoint clearly**:   
 (**RIGHT!!!**)Personally, I support the first opinion that teachers could find some ways to winning popularity from students as well as teaching them properly.   
-Note: You should **clearly** point out your viewpoint   
+**Note**: You should **clearly** point out your viewpoint   
 instead of    
 (**WRONG!!!**)Personally, I support the first/second opinion.   
 * (1 sentence) Plus, a polite formula:   
