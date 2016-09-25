@@ -89,5 +89,6 @@ When it comes to how to explain your idea, I recommended a trick called **Bridgi
     * (A -> C) With more and more people inclined to help others in my community, many habitants' attitudes to neighbours become positive and friendly, more willing to show kindness.
     * (C -> B) As the trend of showing kindness to others sweeps through the community, the whole atmosphere becomes much more harmonious.
 
-##### Example
+##### Example or comparison
 * Your example must be based on your explanation before. In other words, you should use a story to say the **logic flow** again!
+* About comparison, compare with the other opinion.
