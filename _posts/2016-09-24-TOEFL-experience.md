@@ -11,15 +11,16 @@ After struggling with TOEFL four times, from 78 to 106, maybe some of my ideas a
     * [亦鸥](http://www.yeeaoo.com): Practicing speaking and could have someone review your record. Moreover, its speaking group in Wechat is useful.   
 * Apps: 
     * 扇贝单词
-    * 托福考满分: The app of toefl.kmf.com with most functions
-    * 亦鸥托福: The app of www.yeeaoo.com with most functions
+    * 托福考满分: The app of [TOEFL考满分](http://toefl.kmf.com) with most functions is able to record
+    * 亦鸥托福: The app of [亦鸥](http://www.yeeaoo.com) with most functions
     * 托福单词: It has a function called 单词电台, which you could listen to English words following their Chinese meanings
 * Books: 
     * TOEFL iBT听力单词小伴侣: A book containing important listening words
-* Taobao: 
-    * [康老师托福机经](https://klstfjj.taobao.com/shop/view_shop.htm?spm=a230r.1.14.10.9AwTXA&user_number_id=1614500185)
+1614500185)
 * **Note**: Instead of listening to conversations or lectures on the way or during some other free time, I suggest listening to 单词电台 in 托福单词 or [MP3 of TOEFL iBT听力单词小伴侣](http://pan.baidu.com/s/1dEDAaSp)
-    * [小站托福雅思作文批改](https://detail.tmall.com/item.htmid=530167003743&ali_refid=a3_430583_1006:1110853830:N:%E9%9B%85%E6%80%9D%E5%86%99%E4%BD%9C:dc9fd85025a7cd14a5ba038bb81b0225&ali_trackid=1_dc9fd85025a7cd14a5ba038bb81b0225&spm=a230r.1.14.3.Eqj04c): Offer good judge service in 9.9 RMB, but one account could only buy once.
+* Taobao: 
+    * [康老师托福机经](https://klstfjj.taobao.com/shop/view_shop.htm?spm=a230r.1.14.10.9AwTXA&user_number_id=
+    * [小站托福雅思作文批改](https://detail.tmall.com/item.htm?id=530167003743&ali_refid=a3_430583_1006:1110853830:N:%E9%9B%85%E6%80%9D%E5%86%99%E4%BD%9C:dc9fd85025a7cd14a5ba038bb81b0225&ali_trackid=1_dc9fd85025a7cd14a5ba038bb81b0225&spm=a230r.1.14.3.Eqj04c): Offer good judge service in 9.9 RMB, but one account could only buy once.
 
 ## Writing
 My TOEFL writing development: 19 -> 24 -> 27 -> 29   
