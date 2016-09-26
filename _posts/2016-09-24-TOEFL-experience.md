@@ -7,8 +7,8 @@ After struggling with TOEFL four times, from 78 to 106, maybe some of my ideas a
 
 ## Useful Resources   
 * Sites: 
-    * toefl.kmf.com: All TPOs but have some problems when recording speaking
-    * www.yeeaoo.com: Practicing speaking and could have someone review your record. Moreover, its speaking group in Wechat is useful.   
+    * [TOEFL考满分](toefl.kmf.com): All TPOs but have some problems when recording speaking
+    * [亦鸥](www.yeeaoo.com): Practicing speaking and could have someone review your record. Moreover, its speaking group in Wechat is useful.   
 * Apps: 
     * 扇贝单词
     * 托福考满分: The app of toefl.kmf.com with most functions
@@ -17,8 +17,8 @@ After struggling with TOEFL four times, from 78 to 106, maybe some of my ideas a
 * Books: 
     * TOEFL iBT听力单词小伴侣: A book containing important listening words
 * Taobao: 
-    * 
-* **Note**: Instead of listening to conversations or lectures on the way or during some other free time, I suggest listening to 单词电台 in 托福单词 or MP3 of TOEFL iBT听力单词小伴侣
+    * [康老师托福机经](https://klstfjj.taobao.com/shop/view_shop.htm?spm=a230r.1.14.10.9AwTXA&user_number_id=1614500185)
+* **Note**: Instead of listening to conversations or lectures on the way or during some other free time, I suggest listening to 单词电台 in 托福单词 or [TOEFL iBT听力单词小伴侣](http://pan.baidu.com/s/：1eS7cCam)
 
 ## Writing
 My TOEFL writing development: 19 -> 24 -> 27 -> 29   
