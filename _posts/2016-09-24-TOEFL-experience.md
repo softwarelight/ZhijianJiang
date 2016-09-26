@@ -7,8 +7,8 @@ After struggling with TOEFL four times, from 78 to 106, maybe some of my ideas a
 
 ## Useful Resources   
 * Sites: 
-    * [TOEFL考满分](toefl.kmf.com): All TPOs but have some problems when recording speaking
-    * [亦鸥](www.yeeaoo.com): Practicing speaking and could have someone review your record. Moreover, its speaking group in Wechat is useful.   
+    * [TOEFL考满分](http://toefl.kmf.com): All TPOs but have some problems when recording speaking
+    * [亦鸥](http://www.yeeaoo.com): Practicing speaking and could have someone review your record. Moreover, its speaking group in Wechat is useful.   
 * Apps: 
     * 扇贝单词
     * 托福考满分: The app of toefl.kmf.com with most functions
