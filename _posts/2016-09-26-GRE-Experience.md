@@ -17,16 +17,23 @@ Maybe some of my ideas and experience would help you!
 
 * (app)百词斩: the most word app of GRE, I think..
 
+## Notes
+Practicing is much more than completing questions. So, **make notes** when needed!   
+When GRE is coming, **reviewing notes** is the main task!
+
 ## Installation
 ### Words
 * One column of [陈琦串讲卡片](http://pan.baidu.com/share/link?shareid=3500678741&uk=187904928) one day.   
 * (optional) 150 words in 百词斩 one day.
 ### Gap filling
 * First, learn the methods in [陈圣元-GRE句子填空](http://pan.baidu.com/share/link?shareid=2347508162&uk=187904928)
-* Then, complete 必做 of gap filling in 
-* Finally, do two sections of verbal one day.
+* Then, complete 必做 of gap filling in[GRE考满分](https://gre.kmf.com)
+* Finally, do two sections of verbal one day
 ### Reading
-* 
+* First, complete 必做 of reading in [GRE考满分](https://gre.kmf.com)
+Then, do two sections of verbal one day
+### Model exam
+[GRE考满分](https://gre.kmf.com) holds model test (possibly) twice a month. Attend one before the exam. Remember to **do the writing**!
 
 ## Special Thanks
 To **Yue Yin** for sharing her precious experience on GRE with me. Actually, my review method is mainly based on hers. 
