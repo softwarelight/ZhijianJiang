@@ -101,6 +101,7 @@ When it comes to how to explain your idea, I recommended a trick called **Bridgi
 ## Listening
 My TOEFL writing development: 15 -> 19 -> 23 -> 28.   
 Actually, I am very surprised that I can get that high marks.   
+
 * Listen to [MP3 of TOEFL iBT听力单词小伴侣](http://pan.baidu.com/s/1dEDAaSp) **again and again**, when
    * On the way to someplace
    * Programming, consider this as the background
