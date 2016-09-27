@@ -15,4 +15,4 @@ Luckily, I got 154 (Verbal) + 168 (Quantitive) = 322 the first time I took GRE. 
 * Taobao: 
    
 ## Special Thanks
-To Yue Yin for teaching me about how to prepare GRE. Actually, my review method is mostly based on hers. Love you!
+To **Yue Yin** for teaching me about how to prepare GRE. Actually, my review method is mostly based on hers. Love you!
