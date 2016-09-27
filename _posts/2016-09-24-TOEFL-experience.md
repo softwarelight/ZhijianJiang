@@ -113,5 +113,11 @@ Actually, I am very surprised that I can get that high marks.
    * Use 托福考满分APP to carefully listen to sentences **until understanding** them and even read these sentences
    * **Do it again** and conclude why you are wrong
 
+## Listening
+TODO
+
+## Speaking
+TODO
+
 ## Special Thanks
 To **Jill Xu** for practising my speaking again and again (even though I disappoint her) and teaching me logic flow in writing!   
