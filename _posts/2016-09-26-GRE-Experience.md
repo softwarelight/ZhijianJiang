@@ -13,11 +13,11 @@ Maybe some of my ideas and experience would help you!
 * (pdf)[陈圣元-GRE句子填空](http://pan.baidu.com/share/link?shareid=2347508162&uk=187904928)
 * (app)百词斩: the easiest word app of GRE, I think..
 
-## Notes
+## Installation
+
+### Notes
 Practicing is much more than completing questions. So, **make notes** when needed!   
 When GRE is coming, **reviewing notes** is the main task!
-
-## Installation
 
 ### Words
 * One column of [陈琦串讲卡片](http://pan.baidu.com/share/link?shareid=3500678741&uk=187904928) one day   
