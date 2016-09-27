@@ -17,13 +17,13 @@ After struggling with TOEFL four times, from 78 to 106, maybe some of my ideas a
 * Books: 
     * TOEFL iBT听力单词小伴侣: A book containing important listening words
 1614500185)
-* **Note**: Instead of listening to conversations or lectures on the way or during some other free time, I suggest listening to 单词电台 in 托福单词 or [MP3 of TOEFL iBT听力单词小伴侣](http://pan.baidu.com/s/1dEDAaSp)
+* **Note**: Instead of listening to conversations or lectures on the way or during some other free time, I suggest listening to [MP3 of TOEFL iBT听力单词小伴侣](http://pan.baidu.com/s/1dEDAaSp)
 * Taobao: 
     * [康老师托福机经](https://klstfjj.taobao.com/shop/view_shop.htm?spm=a230r.1.14.5.ZWCzAd&user_number_id=1614500185)
     * [小站托福雅思作文批改](https://detail.tmall.com/item.htm?id=530167003743&ali_refid=a3_430583_1006:1110853830:N:%E9%9B%85%E6%80%9D%E5%86%99%E4%BD%9C:dc9fd85025a7cd14a5ba038bb81b0225&ali_trackid=1_dc9fd85025a7cd14a5ba038bb81b0225&spm=a230r.1.14.3.Eqj04c): Offer good judge service in 9.9 RMB, but one account could only buy once.
 
 ## Writing
-My TOEFL writing development: 19 -> 24 -> 27 -> 29   
+My TOEFL writing development: 19 -> 24 -> 27 -> 29.   
 Let's beat WRITING in 30 minutes!!   
 **Note**: Use enough **link words or sentences**!!!
 
@@ -97,6 +97,19 @@ When it comes to how to explain your idea, I recommended a trick called **Bridgi
 ##### Example or Comparison
 * Your example must be based on your explanation before. In other words, you should use a story to say the **logic flow** again!
 * About comparison, compare with the other opinion.
+
+## Listening
+My TOEFL writing development: 15 -> 19 -> 23 -> 28.   
+Actually, I am very surprised that I can get that high marks.   
+* Listen to [MP3 of TOEFL iBT听力单词小伴侣](http://pan.baidu.com/s/1dEDAaSp) **again and again**, when
+   * On the way to someplace
+   * Programming, consider this as the background
+   * Doing assignments, consider this as the background
+* Listen to 单词电台 in 托福单词 to do dictation(听写) once every two days, and then write down your mistakes. 
+* Complete at least one section every day! Then, to every record
+   * Listen again to improve your notes
+   * Use 托福考满分APP to carefully listen to sentences and even read these sentences
+   * Do it again and conclude why you are wrong
 
 ## Special Thanks
 To Jill Xu for practising my speaking again and again (even though I disappoint her) and teaching me logic flow in writing!   
