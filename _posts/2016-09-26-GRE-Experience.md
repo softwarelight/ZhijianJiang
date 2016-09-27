@@ -36,5 +36,5 @@ Then, do two sections of verbal one day
 [GRE考满分](https://gre.kmf.com) holds model test (possibly) twice a month. Attend one before the exam. Remember to **do the writing**!
 
 ## Special Thanks
-To **Yue Yin** for sharing her precious experience on GRE with me. Actually, my review method is mainly based on hers. 
+To **Yue Yin** for sharing her precious experience on GRE with me. Actually, my review method is mainly based on hers.   
 **Love you!**
