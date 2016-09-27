@@ -106,11 +106,12 @@ Actually, I am very surprised that I can get that high marks.
    * On the way to someplace
    * Programming, consider this as the background
    * Doing assignments, consider this as the background
+   * Anytime and anywhere!!!
 * Listen to 单词电台 in 托福单词 to do dictation(听写) once every two days, and then write down your mistakes. 
 * Complete at least one section every day! Then, to every record
-   * Listen again to improve your notes
-   * Use 托福考满分APP to carefully listen to sentences and even read these sentences
-   * Do it again and conclude why you are wrong
+   * Listen again to **improve your notes**
+   * Use 托福考满分APP to carefully listen to sentences **until understanding** them and even read these sentences
+   * **Do it again** and conclude why you are wrong
 
 ## Special Thanks
-To Jill Xu for practising my speaking again and again (even though I disappoint her) and teaching me logic flow in writing!   
+To **Jill Xu** for practising my speaking again and again (even though I disappoint her) and teaching me logic flow in writing!   
