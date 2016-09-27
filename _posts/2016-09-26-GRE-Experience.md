@@ -36,7 +36,10 @@ When GRE is coming, **reviewing notes** is the main task!
 * Doing **one section** of quant in [GRE考满分](https://gre.kmf.com) one day is **necessary** and **enough**
 
 ### Model exam
-[GRE考满分](https://gre.kmf.com) holds model test (possibly) twice a month. Attend one before the exam. Remember to **do the writing**!
+[GRE考满分](https://gre.kmf.com) holds model test (possibly) twice a month. Attend **one** before the exam. Remember to **do the writing**!
+
+### AW
+TODO
 
 ## Special Thanks
 To **Yue Yin** for sharing her precious experience on GRE with me. Actually, my review method is mainly based on hers.   
