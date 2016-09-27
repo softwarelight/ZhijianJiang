@@ -99,4 +99,4 @@ When it comes to how to explain your idea, I recommended a trick called **Bridgi
 * About comparison, compare with the other opinion.
 
 ## Special Thanks
-Jill Xu for practising my speaking agian and again (even though I disappoint her) and teach me logic flow in writing!   
+To Jill Xu for practising my speaking again and again (even though I disappoint her) and teaching me logic flow in writing!   
