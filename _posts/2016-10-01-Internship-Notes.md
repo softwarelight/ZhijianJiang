@@ -5,6 +5,7 @@ subtitle: What I learned in internship...
 ---
 ## Shell 
 Since my job is mainly about shell programming, the focus of this article is about shell.   
+
 * For the purpose of safety, put any variable between two **double quotes marks**, eg **"$HOME"**. About [WHY](http://unix.stackexchange.com/questions/68694/when-is-double-quoting-necessary)
 * **& > /dev/null** means standard output and standard error to /dev/null
 * The rank of different errors: **command_error**, **parameter_error**   
