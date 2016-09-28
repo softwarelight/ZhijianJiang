@@ -22,12 +22,14 @@ After struggling with TOEFL four times, from 78 to 106, maybe some of my ideas a
     * [康老师托福机经](https://klstfjj.taobao.com/shop/view_shop.htm?spm=a230r.1.14.5.ZWCzAd&user_number_id=1614500185)
     * [小站托福雅思作文批改](https://detail.tmall.com/item.htm?id=530167003743&ali_refid=a3_430583_1006:1110853830:N:%E9%9B%85%E6%80%9D%E5%86%99%E4%BD%9C:dc9fd85025a7cd14a5ba038bb81b0225&ali_trackid=1_dc9fd85025a7cd14a5ba038bb81b0225&spm=a230r.1.14.3.Eqj04c): Offer good judge service in 9.9 RMB, but one account could only buy once.
 
-## Writing
+## Independent Writing
 My TOEFL writing development: 19 -> 24 -> 27 -> 29.   
 Let's beat WRITING in 30 minutes!!   
 **Note**: Use enough **link words or sentences**!!!
 
 **Sample question**: It is difficult for teachers to be both popular (students like them) and effective helping students in learning?   
+
+### Structure
 
 ### Head (**template**)   
 * (1 sentence) Describe the **background**:   
@@ -97,6 +99,9 @@ When it comes to how to explain your idea, I recommended a trick called **Bridgi
 ##### Example or Comparison
 * Your example must be based on your explanation before. In other words, you should use a story to say the **logic flow** again!
 * About comparison, compare with the other opinion.
+
+## Integrated Writing
+TODO
 
 ## Listening
 My TOEFL writing development: 15 -> 19 -> 23 -> 28.   
