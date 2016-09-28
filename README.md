@@ -1,7 +1,16 @@
-Created by: Zhijian Jiang
+---
+layout: post
+---
+# ZhijianJiang.github.io
+The personal site of Zhijian Jiang.
 
-http://jiangzhijian.com
+## Purpose
+* To share about myself
+* To help my dear friends
 
-OR
+## URLs
+* http://jiangzhijian.com
+* http://zhijianjiang.github.io
 
-http://zhijianjiang.github.io
+## Contributors
+* Zhijian Jiang
