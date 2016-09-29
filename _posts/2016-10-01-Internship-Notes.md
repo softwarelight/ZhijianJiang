@@ -11,7 +11,7 @@ Since my job is mainly about shell programming, the focus of this article is abo
 * For the purpose of safety, put any variable between two **double quotes marks**, eg **"$HOME"**. About [WHY](http://unix.stackexchange.com/questions/68694/when-is-double-quoting-necessary)
 * **& > /dev/null** means standard output and standard error to /dev/null
 * The rank of different errors: **command_error**, **parameter_error**   
-* There should be one space before and after |   
+* There should be one space before and after **\|**   
 * Use [**basename**](https://linux.die.net/man/1/basename) to strip directory and suffix from filenames and [**dirname**](https://linux.die.net/man/1/dirname) to strip non-directory suffix from file name   
 * Use [**mktemp**](https://linux.die.net/man/1/mktemp) create a temporary file or directory. For example, you could create a temp dir to do what you want to do in it   
 * Use [**trap**](https://linux.die.net/Bash-Beginners-Guide/sect_12_02.html) to **trap EXIT signal to delete temp files** before exit   
