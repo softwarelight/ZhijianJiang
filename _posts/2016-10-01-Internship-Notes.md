@@ -3,6 +3,8 @@ layout: post
 title: Internship Notes
 subtitle: What I learned in internship...
 ---
+I spent three months in **SkyData**, a startup founded by **an Oracle Director** in Nanjing. During this process, I attend the development of **the first core product** and after reviewing my codes again and again, I obtain many useful skills. 
+
 ## Shell 
 Since my job is mainly about shell programming, the focus of this article is about shell.   
 
@@ -21,6 +23,9 @@ Since my job is mainly about shell programming, the focus of this article is abo
 
 ## README.md
 * Use [**tree**](https://linux.die.net/man/1/tree) to list contents of directories in a tree-like format
+
+## Useful Command
+* `grep -r "XXXX" DIR` to search XXXX in all files in DIR
 
 ## Special Thanks
 * To **Yilong Ren** for reviewing my codes again and again and teaching me about many things.   
