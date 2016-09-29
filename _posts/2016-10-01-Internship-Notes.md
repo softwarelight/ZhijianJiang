@@ -2,7 +2,7 @@
 layout: post
 title: Internship Notes
 subtitle: What I learned in internship...   
-author: Zhijian Jiang
+comments: true
 ---
 I spent three months in **SkyData**, a startup founded by **an Oracle Director** in Nanjing. During this process, I attend the development of **the first core product** and after reviewing my codes again and again, I obtain many useful skills. 
 
