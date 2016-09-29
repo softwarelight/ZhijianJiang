@@ -17,7 +17,7 @@ Since my job is mainly about shell programming, the focus of this article is abo
 * Use [**trap**](https://linux.die.net/Bash-Beginners-Guide/sect_12_02.html) to **trap EXIT signal to delete temp files** before exit   
 * **grep -q** to prevent printing   
 * If you want to create a file or directory, **check** whether it has existed or not at first
-* ($()) could generate an **array**   
+* `($())` could generate an **array**   
 * Use [**cut**](https://linux.die.net/man/1/cut) to  remove sections from each line of files   
 * Use **local** to claim a variable only used in a function     
 
