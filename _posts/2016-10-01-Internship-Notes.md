@@ -39,22 +39,22 @@ Since my job is mainly about shell programming, the focus of this article is abo
 
 ## About README.md
 * Use [**tree**](https://linux.die.net/man/1/tree) to list contents of directories in a tree-like format
-* My structure
+* [My structure](https://github.com/ZhijianJiang/ZhijianJiang.github.io/blob/master/README.md)
 
 ## Useful Command
 * `grep -r "XXXX" DIR` to search XXXX in all files in DIR
 * `conda create` to create new conda environment
-* [`ltrace`](https://linux.die.net/man/1/ltrace), [`strace`](https://linux.die.net/man/1/strace), [`ldd`](https://linux.die.net/man/1/ldd) to trace a program
-* [`tmux`](http://man7.org/linux/man-pages/man1/tmux.1.html) is a terminal multiplexer
+* [**ltrace**](https://linux.die.net/man/1/ltrace), [**strace**](https://linux.die.net/man/1/strace), [**ldd**](https://linux.die.net/man/1/ldd) to trace a program
+* [**tmux**](http://man7.org/linux/man-pages/man1/tmux.1.html) is a terminal multiplexer
 * `cat XXXX | [tail](https://linux.die.net/man/1/tail) -n +num1 | [head](https://linux.die.net/man/1/head) -n num2` to output several lines of a file
 * [`git log`](https://git-scm.com/docs/git-log) to view the commit history
-* [`date`](https://linux.die.net/man/1/date) to get the date 
+* [**date**](https://linux.die.net/man/1/date) to get the date 
 
 ## About [MKL](https://software.intel.com/en-us/articles/intel-math-kernel-library-documentation)
 * Lapack: linear algebra package, blas: basic linear algebra library
 
 ## About regular expression
-
+TODO
 
 ## Special Thanks
 * To **Yilong Ren** for reviewing my codes again and again and teaching me about many things.   
