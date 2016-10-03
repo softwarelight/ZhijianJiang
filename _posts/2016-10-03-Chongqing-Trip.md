@@ -32,7 +32,7 @@ subtitle: A city full of distinctive culture
 
 ### 酒店
 住在南岸区的途家斯维登度假公寓（翡翠明珠店），有洗衣机、冰箱、balabala！   
-![](../img/Chongqing_hotel.jpg)
+![](/img/Chongqing_hotel.jpg)
 
 ## day1
 住在南岸区的途家斯维登度假公寓（翡翠明珠店），并且第一天11点左右到达南岸区。   
