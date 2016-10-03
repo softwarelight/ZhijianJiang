@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Chongqing Trip
+title: Chongqing Trip（多图预警）
 subtitle: A city full of distinctive culture
 ---
 ## 概述
@@ -92,3 +92,34 @@ subtitle: A city full of distinctive culture
 其他串串也好吃不贵，还可以点菜（比如笋子也好好吃！），两个人吃了55就撑了。   
 所以感觉到重庆，串串也是要吃的。而且可能随便一家馆子都很好吃吧！   
 一定要吃**鸭血**！！！    
+
+### 没有去的
+* 洋人街，因为据说是游乐场，不太有兴趣就没有去。
+* 泉水鸡一条街，在南山附近，当时太撑了。
+
+## day2
+旅游最核心，也是最累的一天。   
+
+### 长江索道
+TODO
+
+### 会馆
+TODO
+
+### 罗汉寺 + 解放碑
+TODO
+
+### 磁器口
+TODO
+
+## day3
+度假的一天
+
+### 天街
+TODO
+
+### 再来解放碑
+TODO
+
+### 南坪万达
+TODO
