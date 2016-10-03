@@ -1,12 +1,17 @@
 ---
 layout: post
+author: Zhijian Jiang <478293070@qq.com>
 ---
 # ZhijianJiang.github.io
-The personal site of Zhijian Jiang.
+It is the personal site of Zhijian Jiang.
 
-## Purpose
+## Motivation
 * To share about myself
 * To help my dear friends
+* To conclude something interesting or meaningful
+
+## File Layout
+TODO
 
 ## URLs
 * http://jiangzhijian.com
@@ -14,3 +19,6 @@ The personal site of Zhijian Jiang.
 
 ## Contributors
 * Zhijian Jiang
+
+## License
+TODO
