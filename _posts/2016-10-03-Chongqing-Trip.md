@@ -1,3 +1,8 @@
+---
+layout: post
+title: Chongqing Trip
+subtitle: A city full of distinctive culture
+---
 ## 概述
 山城重庆，嘉陵江和长江把主城区分割为三个部分，主要游玩的区有渝中区（解放碑、罗汉寺、洪崖洞）、南岸区（长江索道的一端、洋人街）和九龙坡区（四川美术学院、涂鸦一条街）。
 
