@@ -6,7 +6,7 @@ subtitle: What I learned in internship...
 I spent three months in **SkyData**, a startup founded by **an Oracle Director** in Nanjing. During this process, I attend the development of **the first core product** and after reviewing my codes again and again, I obtain many useful skills.    
 Share with you, my friends. Wish some help!
 
-## Shell 
+## Shell Programming
 Since my job is mainly about shell programming, the focus of this article is about shell.   
 
 ### Syntax
@@ -42,10 +42,6 @@ Since my job is mainly about shell programming, the focus of this article is abo
   * `[-o output_path]` means this option is optional
   * `<-v version_num>` means this option is necessary
 
-## About README.md
-* Use [**tree**](https://linux.die.net/man/1/tree) to list contents of directories in a tree-like format
-* [My structure](https://github.com/ZhijianJiang/ZhijianJiang.github.io/blob/master/README.md)
-
 ## Useful Command
 * `grep -r "XXXX" DIR` to search XXXX in all files in DIR
 * `conda create` to create new conda environment
@@ -55,6 +51,10 @@ Since my job is mainly about shell programming, the focus of this article is abo
 * `diff -Naur A B` to generate the patch from A to B
 * [`git log`](https://git-scm.com/docs/git-log) to view the commit history
 * [**date**](https://linux.die.net/man/1/date) to get the date 
+
+## About README.md
+* Use [**tree**](https://linux.die.net/man/1/tree) to list contents of directories in a tree-like format
+* [My structure](https://github.com/ZhijianJiang/ZhijianJiang.github.io/blob/master/README.md)
 
 ## About [MKL](https://software.intel.com/en-us/articles/intel-math-kernel-library-documentation)
 * Lapack: linear algebra package, blas: basic linear algebra library
