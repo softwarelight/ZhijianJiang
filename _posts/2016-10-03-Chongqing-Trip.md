@@ -22,7 +22,7 @@ subtitle: A city full of distinctive culture
 [一个洗漱用品收纳包](https://detail.tmall.com/item.htm?id=20323967856&spm=a1z09.2.0.0.9vxIhd&_u=q11a48b5036c)
 
 ### 公交卡
-强烈建议买张公交卡：虽然可能25元无法退回，但好处多多啊
+强烈建议买张公交卡：虽然可能25元无法退回，但好处多多啊   
 * 工作日长江索道只需1.8元，而买门票需要10元，而且住在渝中的话，完全可以坐一趟过去，立马再坐回来，省了将近20啊！
 * 重庆公交系统换乘免费
 * 比如你先做A线公交，换到B线公交，B线公交刷卡免费
@@ -82,7 +82,7 @@ subtitle: A city full of distinctive culture
 **Note**: 后两家没有吃是因为中午吃多了，战斗力很快耗尽
 
 ### 南山一棵树
-整体推荐程度：**4星**
+整体推荐程度：**4星**   
 门票：30，学生票半价
 
 #### 概述
@@ -95,7 +95,7 @@ subtitle: A city full of distinctive culture
 
 ### 串串与鸭血
 评价：**5星**   
-![](Chongqing_chuanchuan.jpg)
+![](Chongqing_chuanchuan.jpg)   
 看完南山之后，回来看到了酒店楼下的**李记串串香**，一时嘴馋，就吃了吨夜宵。   
 吃完到鸭血，觉得。。鸭血巨好吃！巨好吃！巨好吃！   
 入口即化，碰牙即碎，口感极佳！   
