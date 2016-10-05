@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Opencv Tutorial
+title: OpenCV Tutorial
 subtitle: Learn opencv together!!!
 ---
 [Compile OpenCV 3.1 for Anaconda Python 3.5, 3.4 and 2.7](https://www.scivision.co/anaconda-python-opencv3/)   
