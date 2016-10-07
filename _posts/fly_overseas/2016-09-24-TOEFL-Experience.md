@@ -21,6 +21,7 @@ After struggling with TOEFL four times, from 78 to 106, maybe some of my ideas a
 * Taobao: 
     * [康老师托福机经](https://klstfjj.taobao.com/shop/view_shop.htm?spm=a230r.1.14.5.ZWCzAd&user_number_id=1614500185)
     * [小站托福雅思作文批改](https://detail.tmall.com/item.htm?id=530167003743&ali_refid=a3_430583_1006:1110853830:N:%E9%9B%85%E6%80%9D%E5%86%99%E4%BD%9C:dc9fd85025a7cd14a5ba038bb81b0225&ali_trackid=1_dc9fd85025a7cd14a5ba038bb81b0225&spm=a230r.1.14.3.Eqj04c): Offer good judge service in 9.9 RMB, but one account could only buy once.
+* [My digest before exam](https://docs.google.com/document/d/1iOjW6EE50BiraEeCnBsYxLK1v8SJpqytuzVy5NK79vo/edit?usp=sharing)
 
 ## Independent Writing
 My TOEFL writing development: 19 -> 24 -> 27 -> 29.   
@@ -117,6 +118,8 @@ Actually, I am very surprised that I can get that high marks.
    * Listen again to **improve your notes**
    * Use 托福考满分APP to carefully listen to sentences **until understanding** them and even read these sentences
    * **Do it again** and conclude why you are wrong
+* Pay attention to linking word (signal words):    
+   **So, although, though, but, well, you know, in fact, because, for example, okay, still, additionally, why, again, let's, now, and, anyway, you see, also**
 
 ## Reading
 * Keep reviewing words with app every day.
