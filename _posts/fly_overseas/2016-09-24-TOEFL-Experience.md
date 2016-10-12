@@ -27,7 +27,7 @@ After struggling with TOEFL four times, from 78 to 106, maybe some of my ideas a
 My TOEFL writing development: 19 -> 24 -> 27 -> 29.   
 Let's beat WRITING in 30 minutes!!   
 **Note**: Use enough **link words, phrases or sentences**!!!   
-* link phrase means some 伴随状语 like personally speaking
+* link phrase means some 伴随状语 like personally speaking, according to ...
 * link sentences means some clauses
 
 **Sample question**: It is difficult for teachers to be both popular (students like them) and effective helping students in learning?   
@@ -53,7 +53,7 @@ In the following paragraphs, I would give some explanations to clarify my viewpo
 
 ### Tail (**template**)
 * (1-2 sentences) Conclude your supporting ideas:   
-In brief, teachers could do both well if they idea1, idea2...   
+**In brief**, teachers could do both well if they idea1, idea2...   
 * (1 sentence) Speak about your main opinion again!   
 * (1 sentence) Improvements, in other words, a **nonsense**. There are three methods:   
     * Suggestion   
