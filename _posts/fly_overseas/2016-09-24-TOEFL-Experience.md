@@ -130,6 +130,7 @@ Actually, I am very surprised that I can get that high marks.
    * Doing assignments, consider this as the background
    * Anytime and anywhere!!!
 **Note**: Listen to "学科场景词汇" in priority   
+
 * Listen to [MP3 of TOEFL iBT听力单词小伴侣](http://pan.baidu.com/s/1dEDAaSp) to do dictation(听写) once every two days, and then write down your mistakes. 
 * Complete at least one section every day! Then, to every record
    * Listen again to **improve your notes**
