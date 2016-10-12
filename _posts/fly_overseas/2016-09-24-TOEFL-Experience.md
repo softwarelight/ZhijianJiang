@@ -13,9 +13,9 @@ After struggling with TOEFL four times, from 78 to 106, maybe some of my ideas a
     * 扇贝单词
     * 托福考满分: The app of [TOEFL考满分](http://toefl.kmf.com) with most functions is able to record
     * 亦鸥托福: The app of [亦鸥](http://www.yeeaoo.com) with most functions
-    * 托福单词: It has a function called 单词电台, which you could listen to English words following their Chinese meanings
+    * 托福单词: It has a function called **单词电台**, which you could listen to English words following their Chinese meanings， ios link is [here](https://itunes.apple.com/us/app/tuo-fu-dan-ci-tuo-fu-ci-huiapp/id1080532068?mt=8)
 * Books: 
-    * TOEFL iBT听力单词小伴侣: A book containing important listening words
+    * TOEFL iBT听力单词小伴侣: A book containing important listening words, MPS is [here](http://pan.baidu.com/s/1dEDAaSp)
 1614500185)
 * **Note**: Instead of listening to conversations or lectures on the way or during some other free time, I suggest listening to [MP3 of TOEFL iBT听力单词小伴侣](http://pan.baidu.com/s/1dEDAaSp)
 * Taobao: 
@@ -102,18 +102,34 @@ When it comes to how to explain your idea, I recommended a trick called **Bridgi
 * About comparison, compare with the other opinion.
 
 ## Integrated Writing
-TODO
+In this part, it is wise for you to **remember a template** and fast fill infomation from reading and speaking into it.   
+#### Take my template for example:   
+The **reading** and **speaking** are totally different in *whether the fund used to pay to people in developing countries for their forested land bring benefits*. Specifically, the **author** **claims** that *the fund establishment would bring three advantages* while the **professor** **thinks** not.   
+
+First of all, the **article** **suggests** that *this fund could prevent damage caused by agriculture*. **On the contrary**, the **lecturer** **points out** that *stopping converting forests to farmlands would threaten the food supply with the increasing demand of food and agricultural products. If farmers could not own more farmlands, they have no choice but to use intensive technology. So, keeping the area of forests and stopping turning them to farmlands could not be completed at the same time.*   
+
+Secondly, the **passage** **holds the opinion that** *this fund could support the development of forest villages*. **By contrast**, the **lecture** **states** that *money from this fund could be only given to the local governments or landowners. In addition, it is the government and landowners that decide to use of money. Although they could spend some money on other projects, the farmers can only get little money.*   
+
+Finally, the **writer** **denotes** *that planting new tress could bring in new species*. So **he claims** that *this measure has a positive effect on biodiversity*. **However**, **in the lecture, the professor** **argues** *that biodiversity is unlikely to be promoted. He explains that because the new forests would be in the form called plantation farms, consisting of a single kind of tress, like rubber or palm trees, it is impossible to increase the number of species greatly.*   
+**Note**
+* One side: reading: author, writer, passage
+* The other side: speaking, lecture(r), professor, 
+* How to express "认为": claim, think, suggest, denote, hold the opinion that, point out, argue, state
+* How to express transition: On the contrary, By contrast, However, Nevertheless
+* Try your best to use **different words** to express similar meanings
+
 
 ## Listening
 My TOEFL writing development: 15 -> 19 -> 23 -> 28.   
 Actually, I am very surprised that I can get that high marks.   
 
-* Listen to [MP3 of TOEFL iBT听力单词小伴侣](http://pan.baidu.com/s/1dEDAaSp) **again and again**, when
+* Listen to 单词电台 in 托福单词 **again and again**, when
    * On the way to someplace
    * Programming, consider this as the background
    * Doing assignments, consider this as the background
    * Anytime and anywhere!!!
-* Listen to 单词电台 in 托福单词 to do dictation(听写) once every two days, and then write down your mistakes. 
+**Note**: Listen to "学科场景词汇" in priority   
+* Listen to [MP3 of TOEFL iBT听力单词小伴侣](http://pan.baidu.com/s/1dEDAaSp) to do dictation(听写) once every two days, and then write down your mistakes. 
 * Complete at least one section every day! Then, to every record
    * Listen again to **improve your notes**
    * Use 托福考满分APP to carefully listen to sentences **until understanding** them and even read these sentences
