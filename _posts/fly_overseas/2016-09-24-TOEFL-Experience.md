@@ -111,7 +111,7 @@ First of all, the **article** **suggests** that *this fund could prevent damage 
 
 Secondly, the **passage** **holds the opinion that** *this fund could support the development of forest villages*. **By contrast**, the **lecture** **states** that *money from this fund could be only given to the local governments or landowners. In addition, it is the government and landowners that decide to use of money. Although they could spend some money on other projects, the farmers can only get little money.*   
 
-Finally, the **writer** **denotes** *that planting new tress could bring in new species*. So **he claims** that *this measure has a positive effect on biodiversity*. **However**, **in the lecture, the professor** **argues** *that biodiversity is unlikely to be promoted. He explains that because the new forests would be in the form called plantation farms, consisting of a single kind of tress, like rubber or palm trees, it is impossible to increase the number of species greatly.*   
+Finally, the **writer** **denotes** *that planting new tress could bring in new species*. So **he claims** that *this measure has a positive effect on biodiversity*. **However**, **in the lecture, the professor** **argues** *that biodiversity is unlikely to be promoted. He explains that because the new forests would be in the form called plantation farms, consisting of a single kind of tress, like rubber or palm trees, it is impossible to increase the number of species greatly.   
 **Note**
 * One side: reading: author, writer, passage
 * The other side: speaking, lecture(r), professor, 
