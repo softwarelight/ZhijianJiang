@@ -103,6 +103,7 @@ When it comes to how to explain your idea, I recommended a trick called **Bridgi
 
 ## Integrated Writing
 In this part, it is wise for you to **remember a template** and fast fill infomation from reading and speaking into it.   
+
 #### Take my template for example:   
 The **reading** and **speaking** are totally different in *whether the fund used to pay to people in developing countries for their forested land bring benefits*. Specifically, the **author** **claims** that *the fund establishment would bring three advantages* while the **professor** **thinks** not.   
 
