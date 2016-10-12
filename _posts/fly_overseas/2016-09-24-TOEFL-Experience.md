@@ -113,12 +113,12 @@ Secondly, the **passage** **holds the opinion that** *this fund could support th
 
 Finally, the **writer** **denotes** *that planting new tress could bring in new species*. So **he claims** that *this measure has a positive effect on biodiversity*. **However**, **in the lecture, the professor** **argues** *that biodiversity is unlikely to be promoted. He explains that because the new forests would be in the form called plantation farms, consisting of a single kind of tress, like rubber or palm trees, it is impossible to increase the number of species greatly.   
 **Note**
+
 * One side: reading: author, writer, passage
 * The other side: speaking, lecture(r), professor, 
 * How to express "认为": claim, think, suggest, denote, hold the opinion that, point out, argue, state
 * How to express transition: On the contrary, By contrast, However, Nevertheless
 * Try your best to use **different words** to express similar meanings
-
 
 ## Listening
 My TOEFL writing development: 15 -> 19 -> 23 -> 28.   
@@ -128,9 +128,8 @@ Actually, I am very surprised that I can get that high marks.
    * On the way to someplace
    * Programming, consider this as the background
    * Doing assignments, consider this as the background
-   * Anytime and anywhere!!!
+   * Anytime and anywhere!!!   
 **Note**: Listen to "学科场景词汇" in priority   
-
 * Listen to [MP3 of TOEFL iBT听力单词小伴侣](http://pan.baidu.com/s/1dEDAaSp) to do dictation(听写) once every two days, and then write down your mistakes. 
 * Complete at least one section every day! Then, to every record
    * Listen again to **improve your notes**
