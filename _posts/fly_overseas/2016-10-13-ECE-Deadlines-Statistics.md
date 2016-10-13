@@ -21,7 +21,7 @@ In order to manage my application timetable, I do statistics on the number of sc
 
 ## Conclusion
 * **Dec 15** and **Jan 15** are definitely the peak of application deadlines, pay attention to these two days!
-* **Dec** and **Jan** are the decisive months. Going through two months is the future!!
+* **Dec** and **Jan** are the decisive months. Going through these two months is the future!!
 
 ## Plus
 Come one everyone in this tough but **EXCITING** application season!!! 
