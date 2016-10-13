@@ -15,10 +15,12 @@ In order to manage my application timetable, I do statistics on the number of sc
 
 ## Graph
 **Here is the result**:   
-![](/img/number-deadlines.PNG)   
+![](/img/number-deadlines.PNG)     
+![](/img/number-month.PNG)     
 
 ## Conclusion
-* **Dec 15** and **Jan 15** is definitely the peak of application deadlines, pay attention to these two days!
+* **Dec 15** and **Jan 15** are definitely the peak of application deadlines, pay attention to these two days!
+* **Dec** and **Jan** are the decisive months. Going through two months is the future!!
 
 ## Plus
 Come one everyone in this tough but **EXCITING** application season!!! 
