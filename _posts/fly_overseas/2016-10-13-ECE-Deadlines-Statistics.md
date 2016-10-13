@@ -11,6 +11,7 @@ In order to manage my application timetable, I do statistics on the number of sc
 * A few schools may account for 2 times becasue of different deadlines of scholarship appliants, materials mails and so on.
 * I only do statistics on ECE or EE or EECS or EE-related programs.
 * According to USNEWS of some year, the general rank is to 72 while the major rank is to 52
+* So stupid that I do it by hand without python, spider or something else.
 
 ## Graph
 **Here is the result**:   
