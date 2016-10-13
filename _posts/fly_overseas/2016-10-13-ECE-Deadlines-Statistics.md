@@ -16,6 +16,7 @@ In order to manage my application timetable, I do statistics on the number of sc
 ## Graph
 **Here is the result**:   
 ![](/img/number-deadlines.PNG)     
+   
 ![](/img/number-month.PNG)     
 
 ## Conclusion
