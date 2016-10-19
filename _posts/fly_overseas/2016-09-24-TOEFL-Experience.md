@@ -26,9 +26,11 @@ After struggling with TOEFL four times, from 78 to 106, maybe some of my ideas a
 ## Independent Writing
 My TOEFL writing development: 19 -> 24 -> 27 -> 29.   
 Let's beat WRITING in 30 minutes!!   
-**Note**: Use enough **link words, phrases or sentences**!!!   
-* link phrase means some 伴随状语 like personally speaking, according to ...
-* link sentences means some clauses
+**Note**: 
+* Use enough **link words, phrases or sentences**!!!   
+   * link phrase means some 伴随状语 like personally speaking, according to ...
+   * link sentences means some clauses
+* Express similar meanings with **different words** as much as you can
 
 **Sample question**: It is difficult for teachers to be both popular (students like them) and effective helping students in learning?   
 
