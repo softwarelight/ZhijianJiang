@@ -17,7 +17,7 @@ Since my job is mainly about shell programming, the focus of this article is abo
 * Put command into `$()`
 * `($())` could generate an **array**   
 * For the convenience, put the annotation **before the code**
-* The function of `[[ XXXX ]]`
+* The usage of `[[ XXXX ]]`
   * Put expression: [[ i = 3 ]] 
   * **Note**: there must be **one space** before and after XXXX
 * **$LINENO** to get the line number of a file
@@ -41,6 +41,7 @@ Since my job is mainly about shell programming, the focus of this article is abo
 * How to say about the usage of a command, eg: `setup.sh [-o output_path] <-v version_num>`
   * `[-o output_path]` means this option is optional
   * `<-v version_num>` means this option is necessary
+* Create a special function to check options
 
 ## Useful Command
 * `grep -r "XXXX" DIR` to search XXXX in all files in DIR
@@ -61,6 +62,15 @@ Since my job is mainly about shell programming, the focus of this article is abo
 
 ## About regular expression
 TODO
+
+## Conclusion
+Instead of coding at school, commercial work more emphasize on
+* Safety
+    * Forbid dangerous actions when coding rather than teaching users in documentation
+* Readability
+    * Add newlines and annotation when necessary
+* Documentation
+    * Though it is difficult and a little boring to write docs, you must do it well!
 
 ## Special Thanks
 * To **Yilong Ren** for reviewing my codes again and again and teaching me about many things.   
