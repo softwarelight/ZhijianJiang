@@ -12,12 +12,11 @@ After struggling with TOEFL four times, from 78 to 106, maybe some of my ideas a
 * Apps: 
     * 扇贝单词
     * 托福考满分: The app of [TOEFL考满分](http://toefl.kmf.com) with most functions is able to record
-    * 亦鸥托福: The app of [亦鸥](http://www.yeeaoo.com) with most functions
+    * 亦鸥托福: The app of [亦鸥](http://www.yeeaoo.com) with most functions  
     * 托福单词: It has a function called **单词电台**, which you could listen to English words following their Chinese meanings， ios link is [here](https://itunes.apple.com/us/app/tuo-fu-dan-ci-tuo-fu-ci-huiapp/id1080532068?mt=8)
 * Books: 
-    * TOEFL iBT听力单词小伴侣: A book containing important listening words, MPS is [here](http://pan.baidu.com/s/1dEDAaSp)
-1614500185)
-* **Note**: Instead of listening to conversations or lectures on the way or during some other free time, I suggest listening to [MP3 of TOEFL iBT听力单词小伴侣](http://pan.baidu.com/s/1dEDAaSp)
+    * TOEFL iBT听力单词小伴侣: A book containing important listening words, click [here](https://detail.tmall.com/item.htm?spm=a230r.1.14.27.PjWLn8&id=40085519740&ns=1&abbucket=17) to buy
+* **Note**: Instead of listening to conversations or lectures on the way or during some other free time, I suggest listening to MP3 of TOEFL iBT听力单词小伴侣
 * Taobao: 
     * [康老师托福机经](https://klstfjj.taobao.com/shop/view_shop.htm?spm=a230r.1.14.5.ZWCzAd&user_number_id=1614500185)
     * [小站托福雅思作文批改](https://detail.tmall.com/item.htm?id=530167003743&ali_refid=a3_430583_1006:1110853830:N:%E9%9B%85%E6%80%9D%E5%86%99%E4%BD%9C:dc9fd85025a7cd14a5ba038bb81b0225&ali_trackid=1_dc9fd85025a7cd14a5ba038bb81b0225&spm=a230r.1.14.3.Eqj04c): Offer good judge service in 9.9 RMB, but one account could only buy once.
@@ -27,6 +26,7 @@ After struggling with TOEFL four times, from 78 to 106, maybe some of my ideas a
 My TOEFL writing development: 19 -> 24 -> 27 -> 29.   
 Let's beat WRITING in 30 minutes!!   
 **Note**: 
+
 * Use enough **link words, phrases or sentences**!!!   
    * link phrase means some 伴随状语 like personally speaking, according to ...
    * link sentences means some clauses
@@ -65,7 +65,8 @@ In the following paragraphs, I would give some explanations to clarify my viewpo
 ### Body (**Logic flow**)   
 Usually, you should have **3** body paragraphs.   
 About how to assign these three paragraphs, you could choose to claim 3 supporting ideas    
-while I prefer to write **2 supporting ideas plus 1 concession paragraph** because   
+while I prefer to write **2 supporting ideas plus 1 concession paragraph** because
+
 * it is easy and quick to write concession paragraph
 * it is easier to figure out 2 supoorting ideas rather than 3
 Since concession paragraph is easier, talk about it first.   
