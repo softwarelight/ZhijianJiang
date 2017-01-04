@@ -24,8 +24,8 @@ description:
 # List of links in the navigation bar
 navbar-links:
   Home: "https://softwarelight.github.io/anyi/" 
-  Academic/Research:"index.html#research" 
-  Bio:"ftsubheader text" href="index.html#bio"
+  Academic/Research:"https://softwarelight.github.io/anyi#research" 
+  Bio:"index.html#bio"
   Resources:
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
